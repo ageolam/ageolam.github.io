@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // MODULE
 var weatherApp = angular.module('weatherApp', ['ngRoute', 'ngResource']);
 
@@ -70,3 +71,8 @@ weatherApp.controller('forecastController', ['$scope', '$resource','$routeParams
 
 
 }]);
+||||||| merged common ancestors
+alert('This is my custom website Despinoula m!');
+=======
+
+>>>>>>> 3a57dfef2995274256e66478f22c194d740866d7
